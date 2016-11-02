@@ -1,3 +1,4 @@
+#This library reads climate data and extracts max temperature in fahreneit.
 #Climate Analysis Tools
 #Using temperature conversion functions from library temerature_conversion.
 source("temp_conversion.R")
